@@ -1,2 +1,19 @@
 # bromeals-
 Bro_meals menyu
+<section class="menu-image">
+  <img src="menu.png" alt="BRO MEALS menyusi">
+</section>
+
+<style>
+.menu-image {
+  background: #e60000;
+  padding: 15px;
+  text-align: center;
+}
+.menu-image img {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  border-radius: 12px;
+}
+</style>
